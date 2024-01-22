@@ -3,5 +3,5 @@
 int main()
 {
     printf("My name is suman patel\n");
-    return 000;
+    return 0;
 }
