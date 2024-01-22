@@ -2,6 +2,12 @@
 #include <stdio.h>
 int main()
 {
-    printf("My name is suman patel\n");
-    return 0;
+    int a,b,sum;
+    printf("enter the first number:\n");
+    scanf("%d",&a);
+    printf("enter the second number:\n");
+    scanf("%d",&b);
+    sum=a+b;
+printf("the sum of 2 numbers is %d", sum);
+return 0;
 }
