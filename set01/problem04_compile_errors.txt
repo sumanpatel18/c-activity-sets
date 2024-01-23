@@ -1,0 +1,31 @@
+Compilation started at 1/23/2024, 10:35:51 AM
+c:\Users\umesh\c-activity-sets\set01\problem04.c: In function 'input':
+c:\Users\umesh\c-activity-sets\set01\problem04.c:16:12: warning: 'return' with a value, in function returning void
+     return n;
+            ^
+c:\Users\umesh\c-activity-sets\set01\problem04.c:12:6: note: declared here
+ void input(int *a, int *b){
+      ^~~~~
+Compilation finished at 1/23/2024, 10:36:05 AM
+Compilation started at 1/23/2024, 10:38:46 AM
+c:\Users\umesh\c-activity-sets\set01\problem04.c: In function 'input':
+c:\Users\umesh\c-activity-sets\set01\problem04.c:16:12: warning: 'return' with a value, in function returning void
+     return n;
+            ^
+c:\Users\umesh\c-activity-sets\set01\problem04.c:12:6: note: declared here
+ void input(int *a, int *b){
+      ^~~~~
+Compilation finished at 1/23/2024, 10:38:46 AM
+Compilation started at 1/23/2024, 10:39:11 AM
+c:\Users\umesh\c-activity-sets\set01\problem04.c: In function 'input':
+c:\Users\umesh\c-activity-sets\set01\problem04.c:16:12: warning: 'return' with a value, in function returning void
+     return n;
+            ^
+c:\Users\umesh\c-activity-sets\set01\problem04.c:12:6: note: declared here
+ void input(int *a, int *b){
+      ^~~~~
+Compilation finished at 1/23/2024, 10:39:12 AM
+Compilation started at 1/23/2024, 10:40:12 AM
+Compilation finished at 1/23/2024, 10:40:13 AM
+Compilation started at 1/23/2024, 10:40:44 AM
+Compilation finished at 1/23/2024, 10:40:45 AM
