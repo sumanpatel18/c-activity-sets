@@ -15,4 +15,34 @@ the source file after being processed gives source file which means that the #in
 what is stdio.h?
 it is a header file containing functions
 
-what is a function prototype
+what is a function prototype consists?
+type of arguments
+number of arguments 
+function names
+
+what is the use of function prototype?
+right no of parameters
+right type of parameters 
+ data type and return values assigned to the parameters 
+
+
+ what is int main()
+ main is a function
+ main returns an integer
+ main is the starting point of the program
+
+
+ what is 
+ int main(){
+ printf("my name\n);
+ }
+ what is printf?
+ printf is a std library function is used to print a string on the console 
+
+
+ what is the meaning of \n
+ it is called a escape character
+ it is used escape to the newline in a terminal
+
+ what does return statement do?
+ transfers the control from called function to a calling function and optionally returns a value 
