@@ -1,0 +1,11 @@
+what is hash?
+it indicates lines that should be procesed by preprocessor
+
+what is preprocessor?
+it gives output based on the input data given by the user 
+
+what is gcc?
+it is a compiler for c language that converts the c source file into executable  file
+
+
+what is the meaning of process in the processors
