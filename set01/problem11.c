@@ -5,7 +5,14 @@ Complex input_complex();
 Complex add_complex(Complex a, Complex b);
 void output(Complex a, Complex b, Complex sum);
 int main(){
-
+Complex num1,num2,result;
+printf("enter the first complex number:\n");
+num1=input_complex();
+printf("enter the second complex number:\n");
+num2=input_complex();
+result=add_complex(num1,num2);
+output(num1,num2,result);
+return 0;
 }
 Complex input_complex() {
 Complex num;
