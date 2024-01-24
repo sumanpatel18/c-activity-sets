@@ -10,4 +10,9 @@ it is a compiler for c language that converts the c source file into executable 
 
 what is the meaning of preprocessing a with preprocessor that includes hash
 #include<stdio.h>
-the source file after being processed gives source file which means that the #include has being executed but the hash wont be in the output because the header will be executed successfully.
+the source file after being processed gives source file which means that the #include has being executed but the hash wont be in the output because the header will be executed successfully
+
+what is stdio.h?
+it is a header file containing functions
+
+what is a function prototype
