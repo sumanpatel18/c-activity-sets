@@ -1,0 +1,20 @@
+Compilation started at 1/24/2024, 10:54:11 PM
+c:\Users\umesh\c-activity-sets\set01\problem10.c: In function 'stringcompare':
+c:\Users\umesh\c-activity-sets\set01\problem10.c:23:52: error: 'string' undeclared (first use in this function)
+     for(i=0;string1[i]!='\0' && string2[i]!='\0'&& string[i]==string2[i];i++);
+                                                    ^~~~~~
+c:\Users\umesh\c-activity-sets\set01\problem10.c:23:52: note: each undeclared identifier is reported only once for each function it appears in
+c:\Users\umesh\c-activity-sets\set01\problem10.c: At top level:
+c:\Users\umesh\c-activity-sets\set01\problem10.c:38:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+Compilation finished at 1/24/2024, 10:54:12 PM
+Compilation started at 1/24/2024, 10:54:31 PM
+c:\Users\umesh\c-activity-sets\set01\problem10.c: In function 'stringcompare':
+c:\Users\umesh\c-activity-sets\set01\problem10.c:23:52: error: 'string' undeclared (first use in this function)
+     for(i=0;string1[i]!='\0' && string2[i]!='\0'&& string[i]==string2[i];i++);
+                                                    ^~~~~~
+c:\Users\umesh\c-activity-sets\set01\problem10.c:23:52: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 1/24/2024, 10:54:31 PM
+Compilation started at 1/24/2024, 10:57:21 PM
+Compilation finished at 1/24/2024, 10:57:21 PM
