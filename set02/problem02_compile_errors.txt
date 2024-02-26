@@ -1,0 +1,24 @@
+Compilation started at 2/26/2024, 11:35:07 AM
+c:\Users\umesh\c-activity-sets\set02\problem02.c: In function 'check_scalene':
+c:\Users\umesh\c-activity-sets\set02\problem02.c:22:21: error: 'C' undeclared (first use in this function)
+     if(a!= b && b!= C && a !=c)
+                     ^
+c:\Users\umesh\c-activity-sets\set02\problem02.c:22:21: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/26/2024, 11:35:08 AM
+Compilation started at 2/26/2024, 11:35:14 AM
+c:\Users\umesh\c-activity-sets\set02\problem02.c: In function 'check_scalene':
+c:\Users\umesh\c-activity-sets\set02\problem02.c:22:21: error: 'C' undeclared (first use in this function)
+     if(a!= b && b!= C && a !=c)
+                     ^
+c:\Users\umesh\c-activity-sets\set02\problem02.c:22:21: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 2/26/2024, 11:35:14 AM
+Compilation started at 2/26/2024, 11:35:48 AM
+Compilation finished at 2/26/2024, 11:35:49 AM
+Compilation started at 2/26/2024, 11:36:20 AM
+Compilation finished at 2/26/2024, 11:36:21 AM
+Compilation started at 2/26/2024, 11:36:40 AM
+Compilation finished at 2/26/2024, 11:36:40 AM
+Compilation started at 2/26/2024, 11:40:48 AM
+Compilation finished at 2/26/2024, 11:40:48 AM
+Compilation started at 2/26/2024, 11:41:16 AM
+Compilation finished at 2/26/2024, 11:41:17 AM
