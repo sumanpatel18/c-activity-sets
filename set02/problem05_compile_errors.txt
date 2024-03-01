@@ -1,2 +1,22 @@
 Compilation started at 2/29/2024, 10:27:54 PM
 Compilation finished at 2/29/2024, 10:27:55 PM
+Compilation started at 3/1/2024, 1:47:54 PM
+c:\Users\umesh\c-activity-sets\set02\problem05.c:29:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+Compilation finished at 3/1/2024, 1:47:54 PM
+Compilation started at 3/1/2024, 1:48:14 PM
+c:\Users\umesh\c-activity-sets\set02\problem05.c:29:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+Compilation finished at 3/1/2024, 1:48:14 PM
+Compilation started at 3/1/2024, 1:48:32 PM
+Compilation finished at 3/1/2024, 1:48:33 PM
+Compilation started at 3/1/2024, 1:48:50 PM
+Compilation finished at 3/1/2024, 1:48:50 PM
+Compilation started at 3/1/2024, 1:49:05 PM
+Compilation finished at 3/1/2024, 1:49:05 PM
+Compilation started at 3/1/2024, 2:14:37 PM
+Compilation finished at 3/1/2024, 2:14:39 PM
+Compilation started at 3/1/2024, 5:38:24 PM
+Compilation finished at 3/1/2024, 5:38:25 PM
